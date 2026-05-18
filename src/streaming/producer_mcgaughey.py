@@ -9,8 +9,8 @@ Work up to see how it all fits together.
 Many functions are standard helpers
 and should not need project-specific modifications.
 
-Author: Denise mcgaughey
-Date: 2026-05
+Author: katie mcgaughey
+Date: 2026-05 
 
 Terminal command to run this file from the root project folder:
 
