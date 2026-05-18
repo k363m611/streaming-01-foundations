@@ -54,8 +54,8 @@ log_env_vars(LOG)
 # WHY: These defaults intentionally do not match .env.example.
 # If they appear in the log, copy .env.example to .env and try again.
 DEFAULT_TOPIC_NAME: Final[str] = "streaming-01-topic-no-env"
-DEFAULT_MESSAGE_COUNT: Final[str] = "2"
-DEFAULT_MESSAGE_INTERVAL_SECONDS: Final[str] = "0.5"
+DEFAULT_MESSAGE_COUNT: Final[str] = "8"
+DEFAULT_MESSAGE_INTERVAL_SECONDS: Final[str] = "1"
 DEFAULT_CLEAR_TOPIC_ON_START: Final[str] = "false"
 
 # === DECLARE GLOBAL CONSTANTS ===
